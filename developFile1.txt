@@ -1,3 +1,6 @@
 This is the first file in the develop branch.
+There have been some changes in this file in the feature1 branch.
 
 This is the second file in the series.
+
+Some extra changes in this file in the feature1 branch.
